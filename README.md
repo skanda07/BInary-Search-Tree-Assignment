@@ -1,1 +1,1 @@
-# BInary-Search-Tree-Assignment
+# BST
